@@ -9,3 +9,5 @@ target_link_libraries(hello add)
 install(TARGETS hello DESTINATION bin)
 install(TARGETS add DESTINATION lib)
 
+add_subdirectory(timer)
+

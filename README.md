@@ -1,5 +1,6 @@
 # Build process
 
+This is a brief explanation of how to build the project with CMake.
 
 ```
 mkdir build && cd build
